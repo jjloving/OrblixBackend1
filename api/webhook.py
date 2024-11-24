@@ -41,7 +41,7 @@ async def start(message):
     text = message.text.split()
     welcome_message =(
         f"Hi, {user_first_name}!👋\n\n"
-        f"Welcome to Orblix!\n\n"
+        f"Welcome to Orblix!👋\n\n"
         f"Here you can earn tokens by mining them!\n\n"
         f"Airdrop date coming soon!\n\n"
         f"Invite friends to earn more tokens, and level up fast!\n\n"
